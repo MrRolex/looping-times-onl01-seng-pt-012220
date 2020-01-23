@@ -5,6 +5,6 @@ def using_times
     
 end
 
-"Wingardium Leviosa"
+Wingardium Leviosa
 
 
